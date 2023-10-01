@@ -180,13 +180,14 @@ nav .touch a {
     font-weight: 600;
 
 }
+
 .btn:nth-last-child(1) {
     background-color: #b6b6b6;
     color: #212121;
     padding: 10px 35px;
 }
 .btn:nth-last-child(1):hover {
-    background-color: #212121;
+    background-color: var(--hero1-bg);
     color: #eaeaea;
 }
 .btn:nth-last-child(2):hover {
@@ -198,6 +199,7 @@ nav .touch a {
     padding-left: 2%;
     cursor: pointer;
 }
+
 
 .social i {
     margin-right: 20px;

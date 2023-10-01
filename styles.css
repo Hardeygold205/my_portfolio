@@ -178,7 +178,6 @@ nav .touch a {
     margin-right: 40px;
     color: #eaeaea;
     font-weight: 600;
-
 }
 
 .btn:nth-last-child(1) {
@@ -199,7 +198,6 @@ nav .touch a {
     padding-left: 2%;
     cursor: pointer;
 }
-
 
 .social i {
     margin-right: 20px;
@@ -289,7 +287,6 @@ nav .touch a {
     flex-shrink: 0;
     transform: transition 3s ease;
     animation: slideRightToLeft 15s linear infinite;
-
 }
 .skill:hover {
     transform: scale(1.2);

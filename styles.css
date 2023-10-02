@@ -362,6 +362,9 @@ nav .touch a {
     opacity: .8;
     width: 100%;
     position: relative;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
 }
 .education .edu {
     margin-left: 3%;
@@ -399,6 +402,8 @@ h1 {
     color: #eaeaea;
     opacity: .9;
 }
+
+
 
 .education .edu-png img {
     width: 30%;
